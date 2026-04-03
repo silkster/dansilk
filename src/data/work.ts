@@ -6,7 +6,7 @@ export const workHistory: WorkEntry[] = [
     title: 'Staff Engineer',
     period: 'Oct 2024 – Present',
     description:
-      'Leading a team of full-stack engineers building editorial tools for Max, Discovery+, MotorTrend, and other streaming services.',
+      'Leading a team of full-stack engineers building editorial tools for HBO Max, Discovery+, MotorTrend, and other streaming services.',
     current: true,
   },
   {
@@ -14,7 +14,7 @@ export const workHistory: WorkEntry[] = [
     title: 'Senior Software Engineer',
     period: 'Apr 2022 – Oct 2024',
     description:
-      'Senior engineer on editorial tooling for Max (formerly HBO Max), Discovery+, and MotorTrend. Joined through the Discovery / WarnerMedia merger.',
+      'Senior engineer on editorial tooling for HBO Max, Discovery+, and MotorTrend. Joined through the Discovery / WarnerMedia merger.',
   },
   {
     company: 'Discovery Communications',

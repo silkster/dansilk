@@ -31,10 +31,28 @@ export function About() {
             >
               Silkster
             </a>{' '}
-            — a platform for finding and validating startup ideas.
+            — a two-product company building tools for entrepreneurs and small organizations.{' '}
+            <a
+              href="https://ideas.silkster.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--color-accent)] hover:underline"
+            >
+              Silkster Ideas
+            </a>{' '}
+            helps founders discover and validate startup ideas.{' '}
+            <a
+              href="https://sites.silkster.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--color-accent)] hover:underline"
+            >
+              Silkster Sites
+            </a>{' '}
+            designs and manages custom websites for small businesses and nonprofits.
           </p>
           <p>
-            I'm based in Washington, DC. I'm interested in AI tooling, automation, investing, and
+            I'm based in the Washington, DC, metro area. I'm interested in AI tooling, automation, investing, and
             the occasional absurdly ambitious project.
           </p>
         </div>

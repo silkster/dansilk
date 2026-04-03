@@ -4,21 +4,21 @@ export const projects: Project[] = [
   {
     name: 'Silkster',
     description:
-      'AI-powered platform for discovering and validating startup ideas — curated from real user pain points, with validation workflows, recommended stacks, and founder roadmaps.',
+      'A two-product company building tools for entrepreneurs and small organizations. Silkster Ideas is an AI-powered platform for discovering and validating startup ideas. Silkster Sites designs and manages custom websites for small businesses and nonprofits.',
     stack: ['React', 'TypeScript', 'Node.js', 'Express'],
     url: 'https://silkster.com',
   },
   {
     name: 'Silkster CMS',
     description:
-      'Headless CMS with a public REST API powering multiple client websites. Built to make launching and managing small-org sites fast and maintainable.',
+      'Multi-tenant admin platform powering the Silkster Sites client network. Manages content, officers/teams, events, members, pages and more across multiple organization websites via a shared REST API.',
     stack: ['React', 'Vite', 'TypeScript', 'Express'],
-    url: 'https://api.silkster.com',
+    url: 'https://admin.silkster.com',
   },
   {
     name: 'Chief of Staff',
     description:
-      'Personal AI agent for managing Warner Bros. Discovery day-to-day work — surfacing priorities, drafting communications, and reducing context-switching overhead.',
+      'Personal AI agent for managing day-to-day work — surfacing priorities, drafting communications, and reducing context-switching overhead.',
     stack: ['Claude Agent SDK', 'TypeScript', 'Node.js'],
   },
   {
@@ -36,7 +36,7 @@ export const projects: Project[] = [
     url: 'https://paularaneynewman.com',
   },
   {
-    name: 'Thomas KOFC',
+    name: 'Thomas KofC',
     description:
       'Website for a Knights of Columbus council, built on the Silkster CMS platform.',
     stack: ['React', 'TypeScript', 'Tailwind CSS'],
