@@ -59,7 +59,7 @@ export function Hero() {
             <FaLinkedin size={18} />
           </a>
           <a
-            href="https://x.com/thedansilk"
+            href="https://x.com/silksterweb"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="X / Twitter"

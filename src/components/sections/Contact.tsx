@@ -15,8 +15,8 @@ const contactLinks = [
   },
   {
     icon: FaXTwitter,
-    label: '@thedansilk',
-    href: 'https://x.com/thedansilk',
+    label: '@silksterweb',
+    href: 'https://x.com/silksterweb',
   },
   {
     icon: FaLinkedin,
