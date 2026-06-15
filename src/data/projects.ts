@@ -4,7 +4,7 @@ export const projects: Project[] = [
   {
     name: 'Silkster',
     description:
-      'A two-product company building tools for entrepreneurs and small organizations. Silkster Ideas is an AI-powered platform for discovering and validating startup ideas. Silkster Sites designs and manages custom websites for small businesses and nonprofits.',
+      'Silkster is a founder-focused advisory and build studio. The job is to move people from idea → validation → execution → growth, optimizing for two things at once: business success (revenue, viability, speed) and human flourishing (well-being, trust, sustainability). The bias is to ship real artifacts fast — pages, offers, MVPs — not endless ideation. The technology isn\'t the point; helping people move their business forward is.',
     stack: ['React', 'TypeScript', 'Node.js', 'Express'],
     url: 'https://silkster.com',
   },

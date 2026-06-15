@@ -44,14 +44,18 @@ export function About() {
 
         <div className="space-y-4 text-[var(--color-muted)] leading-relaxed">
           <p>
-            I've been writing software for 30 years, which means I've watched every trend arrive,
-            peak, and get replaced. What I've kept from that time: a preference for systems that are
-            easy to understand, code that doesn't require archaeology to maintain, and tools that
-            actually reduce friction rather than just adding ceremony.
+            I've been building software for more than 30 years. I've watched plenty of
+            technologies, frameworks, and "next big things" come and go. Through all of it, I've
+            developed a strong preference for systems that are easy to understand, code that's
+            straightforward to maintain, and tools that make people more productive instead of
+            adding process for its own sake.
           </p>
           <p>
-            By day I'm a Staff Engineer at Warner Bros. Discovery, leading a team that builds
-            editorial tools for Max, Discovery+, and MotorTrend. Outside of that, I run{' '}
+            By day, I'm a Staff Engineer at Warner Bros. Discovery. I help build the editorial
+            and content management tools behind HBO Max, Discovery+, and more.
+          </p>
+          <p>
+            Outside of work, I run{' '}
             <a
               href="https://silkster.com"
               target="_blank"
@@ -59,17 +63,9 @@ export function About() {
               className="text-[var(--color-accent)] hover:underline"
             >
               Silkster
-            </a>{' '}
-            — a two-product company building tools for entrepreneurs and small organizations.{' '}
-            <a
-              href="https://ideas.silkster.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[var(--color-accent)] hover:underline"
-            >
-              Silkster Ideas
-            </a>{' '}
-            helps founders discover and validate startup ideas.{' '}
+            </a>{' '}, a founder-focused advisory and build studio. I help
+            entrepreneurs, small businesses, and community organizations get a real web presence
+            fast. My main focus is{' '}
             <a
               href="https://sites.silkster.com"
               target="_blank"
@@ -77,12 +73,24 @@ export function About() {
               className="text-[var(--color-accent)] hover:underline"
             >
               Silkster Sites
-            </a>{' '}
-            designs and manages custom websites for small businesses and nonprofits.
+            </a>{' '}: custom design, hosting, and ongoing management,
+            built on a CMS I developed in React and Vite. Behind the scenes it runs on my own
+            automation toolkit and a client Hub app. Work that used to take agencies weeks, I turn
+            around in days. I build for small businesses, non-profits, creators, professional  
+            services and trades. I also run{' '}
+            <a
+              href="https://ideas.silkster.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--color-accent)] hover:underline"
+            >
+              Silkster Ideas
+            </a>{' '}, which helps founders discover and 
+            validate startup ideas before they build.
           </p>
           <p>
-            I'm based in the Washington, DC, metro area. I'm interested in AI tooling, automation, investing, and
-            the occasional absurdly ambitious project.
+            I'm based in the Washington, DC area. I spend a lot of my time on AI-assisted development, 
+            automation, investing, and the occasional project that's more ambitious than it needs to be.
           </p>
         </div>
       </div>
