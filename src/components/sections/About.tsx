@@ -63,7 +63,7 @@ export function About() {
               className="text-[var(--color-accent)] hover:underline"
             >
               Silkster
-            </a>{' '}, a founder-focused advisory and build studio. I help
+            </a>, a founder-focused advisory and build studio. I help
             entrepreneurs, small businesses, and community organizations get a real web presence
             fast. My main focus is{' '}
             <a
@@ -73,7 +73,7 @@ export function About() {
               className="text-[var(--color-accent)] hover:underline"
             >
               Silkster Sites
-            </a>{' '}: custom design, hosting, and ongoing management,
+            </a>: custom design, hosting, and ongoing management,
             built on a CMS I developed in React and Vite. Behind the scenes it runs on my own
             automation toolkit and a client Hub app. Work that used to take agencies weeks, I turn
             around in days. I build for small businesses, non-profits, creators, professional  
@@ -85,7 +85,7 @@ export function About() {
               className="text-[var(--color-accent)] hover:underline"
             >
               Silkster Ideas
-            </a>{' '}, which helps founders discover and 
+            </a>, which helps founders discover and 
             validate startup ideas before they build.
           </p>
           <p>
