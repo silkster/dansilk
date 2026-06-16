@@ -4,7 +4,7 @@ export const projects: Project[] = [
   {
     name: 'Silkster',
     description:
-      'A founder-focused advisory and build studio. Silkster helps founders and small businesses ship a real web presence fast. Pages, offers, and MVPs, not endless planning. The goal is to remove the technical barriers so owners can focus on the work they care about.',
+      'A founder-focused studio that helps small businesses go from idea to launch. One side is advisory: honest guidance to move founders from idea to validation to execution to growth, with a bias toward shipping. The other side is hands-on building: designing, building, and launching real websites on a custom platform that takes a site from intake to live in days. One side helps you figure out what to build. The other builds it.',
     stack: ['React', 'TypeScript', 'Node.js', 'Express'],
     url: 'https://silkster.com',
   },
