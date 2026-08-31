@@ -6,7 +6,7 @@ export const workHistory: WorkEntry[] = [
     title: 'Staff Engineer',
     period: 'Oct 2024 – Present',
     description:
-      'Leading a team of full-stack engineers building editorial tools for HBO Max, Discovery+, MotorTrend, and other streaming services.',
+      'Working with a team of full-stack engineers building editorial tools for HBO Max, Discovery+, MotorTrend, and other streaming services.',
     current: true,
   },
   {
