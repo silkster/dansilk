@@ -11,7 +11,7 @@ export function Hero() {
       </p>
 
       <h1 className="text-4xl sm:text-5xl font-semibold tracking-tight text-[var(--color-text)] leading-tight mb-6">
-        30 years of software.
+        25 years of software.
         <br />
         Still curious.
       </h1>

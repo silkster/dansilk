@@ -44,7 +44,7 @@ export function About() {
 
         <div className="space-y-4 text-[var(--color-muted)] leading-relaxed">
           <p>
-            I've been building software for more than 30 years. I've watched plenty of
+            I've been building software for more than 25 years. I've watched plenty of
             technologies, frameworks, and "next big things" come and go. Through all of it, I've
             developed a strong preference for systems that are easy to understand, code that's
             straightforward to maintain, and tools that make people more productive instead of
